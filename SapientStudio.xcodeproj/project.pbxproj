@@ -470,6 +470,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "SapientStudio-Info-Debug.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "Sapient Studio";
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.developer-tools";
 				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "Sapient serves its on-device models to other devices on your network when you turn on the API server.";
 				INFOPLIST_KEY_NSSupportsLiveActivities = YES;
@@ -509,6 +510,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "SapientStudio-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "Sapient Studio";
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.developer-tools";
 				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "Sapient serves its on-device models to other devices on your network when you turn on the API server.";
 				INFOPLIST_KEY_NSSupportsLiveActivities = YES;
